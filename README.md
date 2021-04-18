@@ -1,5 +1,7 @@
 # NLU-Dependency-Grammar-Assignment
 First assignment NLU about Dependency Grammar with spaCy
+* Gaia Trebucchi
+* gaia.trebucchi@gmail.com
 
 # README
 ## Requirements: 
