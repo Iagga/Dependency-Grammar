@@ -1,7 +1,7 @@
 # NLU-Dependency-Grammar-Assignment
-First assignment NLU about Dependency Grammar with spaCy
-* Gaia Trebucchi
-* gaia.trebucchi@gmail.com
+First assignment of NLU course about dependency grammar and spaCy library.
+* Student name: Gaia Trebucchi
+* Student number: 224464
 
 # README
 ## Requirements: 
@@ -9,3 +9,5 @@ First assignment NLU about Dependency Grammar with spaCy
 * `spaCy`: 
      * run `pip install spacy`
      * run `python -m spacy download en_core_web_sm` 
+
+The detailed report of each function is located in the notebook along with the code.
